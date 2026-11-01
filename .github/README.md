@@ -18,14 +18,21 @@
 
 📦 Instalación
 npm install github:DamianJS-ofc-n/WhiskeySocketslocosyasociados
+
 ⚡ Uso Rápido
+
 import makeWASocket from 'whiskeysocketslocosyasociados'
 const sock = makeWASocket({ printQRInTerminal: true })
+
 🚀 Características 🚀
 > ✅ Baileys estable
+
 > ✅ Optimizado para bots
+
 > ✅ Soporte para Pairing Code
+
 > ✅ Estable y rápida
+
 > ✅ 100% Gratis
 
 ❦ Canales Oficiales
